@@ -33,3 +33,8 @@ Ce projet démontre la migration d'une architecture microservices de Spring Clou
 - Java 17
 - Docker & Docker Compose
 - H2 Database (In-Memory)
+
+<img width="960" height="336" alt="1" src="https://github.com/user-attachments/assets/c993775f-b989-455b-b01c-e9e6f57c553c" />
+
+<img width="960" height="386" alt="2" src="https://github.com/user-attachments/assets/2793d950-3343-4a72-be1e-f3434274068f" />
+
